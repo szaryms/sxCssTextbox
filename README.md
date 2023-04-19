@@ -1,7 +1,7 @@
 # sxCssTextbox
 Custom textbox that allows to create content using HTML and modify UI using CSS.
 
-![Example:](https://raw.githubusercontent.com/szaryms/sxCssTextbox/main/image.png)
+![Example:](https://raw.githubusercontent.com/szaryms/sxCssTextbox/main/screenshot01.png)
 
 ## Description
 - Create custom content usnig HTML. You can mix HTML code with Qlik measures, variables and expressions.

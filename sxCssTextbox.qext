@@ -1,0 +1,15 @@
+{
+	"name": "sxCssTextbox",
+	"description": "Custom Textbox that allows you to create content using HTML and modify UI using CSS.",
+	"type": "visualization",
+	"version": "1.0.0",
+	"icon": "extension",
+	"author": "Marcin Siara",
+	"homepage": "simapps.pl",
+	"keywords": "qlik-sense, visualization",
+	"license": "MIT License",
+	"repository": "https://github.com/szaryms/sxCssTextbox",
+	"dependencies": {
+		"qlik-sense": ">=3.0.x"
+	}
+}

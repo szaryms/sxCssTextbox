@@ -4,6 +4,7 @@
 	"type": "visualization",
 	"version": "1.0.0",
 	"icon": "extension",
+	"preview": "image.png",
 	"author": "Marcin Siara",
 	"homepage": "simapps.pl",
 	"keywords": "qlik-sense, visualization",
